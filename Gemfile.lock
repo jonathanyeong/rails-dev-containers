@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails.git
-  revision: 88924dd9d4e40d7548596d16265346a65552a142
+  revision: 738fde4782a1a457341aae54b80fa9844ba73904
   branch: main
   specs:
     actioncable (8.0.0.alpha)
@@ -218,7 +218,7 @@ GEM
     puma (6.4.2)
       nio4r (~> 2.0)
     racc (1.8.0)
-    rack (3.1.4)
+    rack (3.1.6)
     rack-session (2.0.0)
       rack (>= 3.0.0)
     rack-test (2.1.0)
